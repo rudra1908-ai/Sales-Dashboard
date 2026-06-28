@@ -57,8 +57,6 @@ This project presents an interactive **Sales Dashboard** developed using **Table
 Sales-Dashboard/
 │── README.md
 │── Sales Dashboard.twbx
-│── Dataset/
-│   └── sales_data.csv
 │── Images/
 │   └── dashboard_preview.png
 ```
